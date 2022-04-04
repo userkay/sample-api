@@ -1,1 +1,1 @@
-"# sample-api" 
+A simple example API built with express
