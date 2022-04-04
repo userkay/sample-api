@@ -1,7 +1,7 @@
 import express from 'express';
 import genRouter from './routes/generic.js';
 
-const PORT = process.env.SERVER_PORT || 8000;
+const PORT = process.env.SERVER_PORT || 8893;
 const app = express();
 
 app.use(express.json())
